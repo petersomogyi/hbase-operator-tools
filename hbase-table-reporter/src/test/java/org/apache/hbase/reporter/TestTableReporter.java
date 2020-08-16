@@ -29,6 +29,8 @@ import java.util.List;
 
 import static org.apache.hadoop.hbase.shaded.junit.framework.TestCase.assertEquals;
 
+// TEST change
+
 public class TestTableReporter {
   private static final byte [] CF = Bytes.toBytes("cf");
   private static final byte [] Q = Bytes.toBytes("q");
